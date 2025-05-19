@@ -12,7 +12,7 @@ Dieses Repository enthält ein einfaches HTML-Boilerplate-Template für einen sc
 
 1. Repository klonen oder herunterladen:
     ```bash
-    git clone https://github.com/dein-nutzername/my-html-boilerplate.git
+    git clone https://github.com/M-Wiecha/HTML-Boilerplate-Starter
     ```
 2. Die Dateien nach Bedarf anpassen und im Browser öffnen.
 
